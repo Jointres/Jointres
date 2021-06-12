@@ -8,4 +8,13 @@ function on_click(){
 	if text == "Quit"{
 		game_end()
 	}
+	if text == "Resume"{
+		with(obj_manager){
+			// gotta put this shit in so it works its a copy pasta from obj_manager
+			event_user(1);
+			menu_open = !menu_open;
+			instance_activate_all();
+			pause = false;
+		}
+	}
 }

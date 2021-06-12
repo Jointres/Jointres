@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
 step = 32;
+obj_block_list = ds_list_create();

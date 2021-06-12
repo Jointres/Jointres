@@ -1,11 +1,11 @@
 {
   "name": "ts_background",
   "spriteId": {
-    "name": "spr_background",
-    "path": "sprites/spr_background/spr_background.yy",
+    "name": "spr_grid",
+    "path": "sprites/spr_grid/spr_grid.yy",
   },
-  "tileWidth": 64,
-  "tileHeight": 64,
+  "tileWidth": 32,
+  "tileHeight": 32,
   "tilexoff": 0,
   "tileyoff": 0,
   "tilehsep": 0,

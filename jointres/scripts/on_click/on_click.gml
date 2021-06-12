@@ -5,4 +5,7 @@ function on_click(){
 	if text == "Play" {
 		room_goto_next()
 	}
+	if text == "Quit"{
+		game_end()
+	}
 }

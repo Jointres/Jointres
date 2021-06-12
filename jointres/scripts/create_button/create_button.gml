@@ -5,7 +5,6 @@
 /// @arg width
 /// @arg height
 /// @arg text
-/// @arg text
 /// @arg script
 
 function create_button(){

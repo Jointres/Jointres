@@ -21,7 +21,9 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":3,},
     {"id":{"name":"on_click","path":"scripts/on_click/on_click.yy",},"order":2,},
+    {"id":{"name":"sfx_select","path":"sounds/sfx_select/sfx_select.yy",},"order":0,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
+    {"id":{"name":"obj_rules","path":"objects/obj_rules/obj_rules.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
